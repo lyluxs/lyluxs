@@ -1,5 +1,6 @@
 # ✨ Hola, soy Lyluxs
 ≽^•⩊•^≼
+
 💻 Programadora avanzada  
 🎓 Estudiante de Bachillerato en Tecnologías de la Información  
 🔐 Apasionada por la ciberseguridad  
