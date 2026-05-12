@@ -1,5 +1,5 @@
 # ✨ Hola, soy Lyluxs
-
+≽^•⩊•^≼
 💻 Programadora avanzada  
 🎓 Estudiante de Bachillerato en Tecnologías de la Información  
 🔐 Apasionada por la ciberseguridad  
@@ -26,10 +26,4 @@ También me interesa entender cómo funcionan los sistemas, la seguridad inform�
 ## 🌸 Pronombres
 she / her
 
-    /\_____/\
-   /  o   o  \
-  ( ==  ^  == )
-   )         (
-  (           )
- ( (  )   (  ) )
-(__(__)___(__)__)
+=^._.^= ∫
