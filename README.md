@@ -1,7 +1,7 @@
 # ✨ Hi, I'm Lyluxs
 ≽^•⩊•^≼
 
-💻 Advanced Programmer
+💻 Junior Programmer
 
 🎓 Information Technology High School Student
 
