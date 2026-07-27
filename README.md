@@ -1,30 +1,30 @@
-# ✨ Hola, soy Lyluxs
+# ✨ Hi, I'm Lyluxs
 ≽^•⩊•^≼
 
-💻 Programadora avanzada  
-🎓 Estudiante de Bachillerato en Tecnologías de la Información  
-🔐 Apasionada por la ciberseguridad  
-🎮 Creadora de juegos con estética extraña y experimental  
+💻 Advanced Programmer
+🎓 Information Technology High School Student
+🔐 Passionate About Cybersecurity
+🎮 Creator of Weird and Experimental Games
 
 ---
 
-## 🌙 Sobre mí
-Me gusta crear proyectos creativos en programación, especialmente juegos con atmósferas únicas, raras o psicológicas.
+## 🌙 About Me
+I enjoy creating creative programming projects, especially games with unique, strange, or psychological atmospheres.
 
-También me interesa entender cómo funcionan los sistemas, la seguridad informática y el mundo digital en profundidad.
-
----
-
-## 🧠 Intereses
-- Programación 💻
-- Ciberseguridad 🔐
-- Videojuegos 🎮
-- Estética glitch / extraña / experimental
-- Aprender cosas nuevas constantemente
+I'm also interested in understanding how systems work, cybersecurity, and the digital world in depth.
 
 ---
 
-## 🌸 Pronombres
+## 🧠 Interests
+- Programming 💻
+- Cybersecurity 🔐
+- Video Games 🎮
+- Glitch / Weird / Experimental Aesthetics
+- Constantly Learning New Things
+
+---
+
+## 🌸 Pronouns
 she / her
 
 =^._.^= ∫
