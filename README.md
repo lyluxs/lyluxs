@@ -2,8 +2,11 @@
 ≽^•⩊•^≼
 
 💻 Advanced Programmer
+
 🎓 Information Technology High School Student
+
 🔐 Passionate About Cybersecurity
+
 🎮 Creator of Weird and Experimental Games
 
 ---
