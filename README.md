@@ -3,7 +3,7 @@
 
 💻 Junior Programmer
 
-🎓 Information Technology High School Student
+🎓 High School Student
 
 🔐 Passionate About Cybersecurity
 
